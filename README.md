@@ -18,3 +18,5 @@ EAS ENDEC.
 Please please please please PLEASE use this responsibly.  Did you just buy an old ENDEC on eBay and want to put it through its paces?  This is the script for you!
 
 Don't use this to hack / exploit anything.  I made this for funsies in a few hours.  Please use it accordingly.
+
+Also if you create a fork of this repo, please credit the original project :)
