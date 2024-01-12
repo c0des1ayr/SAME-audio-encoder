@@ -19,4 +19,4 @@ Please please please please PLEASE use this responsibly.  Did you just buy an ol
 
 Don't use this to hack / exploit anything.  I made this for funsies in a few hours.  Please use it accordingly.
 
-Also if you create a fork of this repo, please credit the original project :)
+Also if you create a fork of this repo, please credit the [original project](https://github.com/nicksmadscience/eas-same-encoder/blob/master/README.md) :)
