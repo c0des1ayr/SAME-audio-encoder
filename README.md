@@ -2,7 +2,7 @@
 
 [Here's a quick background on how EAS SAME headers work.](https://www.youtube.com/watch?v=Z5o1sfXXf9E)
 
-Since the mid-90's, a a device has sat in the headend room of every TV / FM / AM station that listen for EAS SAME signals on neighboring
+Since the mid-90's, a a device has sat in the headend room of every TV / FM / AM station that listens for EAS SAME signals on neighboring
 stations and, if the specified information matches the predefined filters for location and type of emergency, rebroadcasts the emergency message on its local station.
 
 Anyway, since I'm trying to flex my coding skills right now, I wrote a Python script that generates these tones!  Tested and is correctly interpreted by my SAGE
