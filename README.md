@@ -1,5 +1,7 @@
 # Emergency Alert System (EAS) Specific Area Message Encoding (SAME) Encoder
 
+## This is a fork, below is the original README
+
 [Here's a quick background on how EAS SAME headers work.](https://www.youtube.com/watch?v=Z5o1sfXXf9E)
 
 Since the mid-90's, a a device has sat in the headend room of every TV / FM / AM station that listens for EAS SAME signals on neighboring
